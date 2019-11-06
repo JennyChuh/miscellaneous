@@ -17,5 +17,6 @@ public static void main(String []args)throws Exception{
 	}
 	in.close();
 	process.waitFor();
+	System.out.print("exit!");
 }
 }
