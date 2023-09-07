@@ -1,2 +1,1 @@
-# hello-world
-this is my first code on github！
+note my daily code
